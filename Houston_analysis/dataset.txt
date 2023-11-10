@@ -1,0 +1,3 @@
+本程序中所使用的Houston数据集来源：https://github.com/YuxiangZhang-BIT/Data-CSHSI/tree/main
+（运行时请先建立dataset文件夹）
+本程序的主要参照：https://github.com/Pancakerr/HybridSN/blob/master/HybridSN.ipynb
